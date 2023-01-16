@@ -5,7 +5,7 @@
 - <b>Microsoft Azure</b>
   - [Microsoft Azure Storage Account](https://github.com/moise2001/Azure-Storage-Account-Setup)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/moise2001/Azure-Config-AD)
-  - [Azure File Permissions](https://github.com/moise2001/Azure-File-Permissions)
+  - [Azure File Permissions](https://github.com/moise2001/-Azure-File-Permissions)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/moise2001/azure-network-protocols)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/moise2001/OsTicket-Prereqs)
