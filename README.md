@@ -1,4 +1,4 @@
-<h1>Hello, I'm Moise, an <a href="https://linkedin.com/in/moise-cheristin-61b339191/">IT Technician</a></h1>
+<h1>Hello, I'm Moise, an <a href="https://linkedin.com/in/moise-cheristin-61b339191/">Softwere Devloper & IT Technician</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
