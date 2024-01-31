@@ -13,3 +13,4 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/moise2001/Ticket-Lifecycle)
 - <b>Programming Projects</b>
   -  [Data Structures and Algorithms](https://github.com/Moise2001/Data-and-Algorithms/tree/master)
+  -   [Apple Quality Machine Learning](https://github.com/Moise2001/Apply-Quality)
