@@ -11,3 +11,5 @@
   - [osTicket: Prerequisites and Installation](https://github.com/moise2001/OsTicket-Prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/moise2001/Post-Install-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/moise2001/Ticket-Lifecycle)
+- <b>Programming Projects</b>
+  -  [Data Structures and Algorithms](https://github.com/Moise2001/Data-and-Algorithms/tree/master)
